@@ -1,0 +1,53 @@
+{
+    "projects":[
+        {
+            "title": "Weather App",
+            "imageUrl": "/images/weather.jpg",
+            "project_url": "https://hitmanshelby.netlify.app/",
+            "description": "Weather app built with React and OpenWeather API.",
+            "tags": [ "react", "weather api" ]
+        },
+        {
+            "title": "Movie Recommendation App",
+            "imageUrl": "/images/Movie.png",
+            "project_url": "https://movixrs.netlify.app/",
+            "description": "Movie recommendation app built with React with search and sorting functionality",
+            "tags": [ "react", "javascript", "html & css" ]
+        },
+        {
+            "title": "Multi Class Brain Tumor Detection Using Transfer Learning",
+            "imageUrl": "/images/Detection.webp",
+            "project_url": "https://github.com/Vedanggs/BE-Backend.git",
+            "description": "Multi Class Brain Tumor Detection Using Transfer Learning built with React, Django, FastAPI, MobileNet V2 model and SQLite.",
+            "tags": [ "react", "django", "fastapi", "mobilenet v2 model", "sqlite" ]
+        },
+        {
+            "title": "Language Detection and Translation App",
+            "imageUrl": "/images/translation.jpg",
+            "project_url": "https://github.com/Vedanggs/Big-Data-Analytics",
+            "description": "Language Detection and Translation App built with FastText and HDFS.",
+            "tags": [ "fastText", "HDFS" ]
+        },
+        {
+            "title": "Library Management System",
+            "imageUrl": "/images/library.png",
+            "project_url": "https://github.com/Vedanggs/DBMS",
+            "description": "Library Management System built with Java, JDBC and MySQL used to find books, manage inventory and track borrowing history.",
+            "tags": [ "java", "jdbc", "mysql" ]
+        },
+        {
+            "title": "Calculator App",
+            "imageUrl": "/images/calculator.jpg",
+            "project_url": "https://github.com/Vedanggs/Codesoft3",
+            "description": "Simple calculator app built with HTML, CSS and JavaScript.",
+            "tags": [ "html", "css", "javascript" ]
+        },
+         {
+            "title": "Tymonial",
+            "imageUrl": "https://raw.githubusercontent.com/Benrobo/tymonial-app/main/github-img/formUI.png",
+            "project_url": "https://github.com/Benrobo/tymonial-app",
+            "description": "An easy way to collect users feedback into yout web app.",
+            "tags": [ "react", "nodejs", "linode server" ]
+        }
+    ]
+}
