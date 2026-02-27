@@ -43,11 +43,11 @@
             "tags": [ "html", "css", "javascript" ]
         },
          {
-            "title": "Tymonial",
-            "imageUrl": "https://raw.githubusercontent.com/Benrobo/tymonial-app/main/github-img/formUI.png",
-            "project_url": "https://github.com/Benrobo/tymonial-app",
-            "description": "An easy way to collect users feedback into yout web app.",
-            "tags": [ "react", "nodejs", "linode server" ]
+            "title": "Smart Contract Manager",
+            "imageUrl": "/images/scm.webp",
+            "project_url": "https://github.com/Vedanggs/Smart-Contract-Manager",
+            "description": "A user-friendly interface for managing smart contracts built with Java Spring Boot.",
+            "tags": [ "Spring Boot", "AWT", "mysql" ]
         }
     ]
 }
